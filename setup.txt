@@ -1,0 +1,8 @@
+open app.exe
+
+
+click on wifi  and wait for some times
+
+
+**********quation************
+do not close that black window
