@@ -14,7 +14,7 @@ class WifiPassword:
     
     def __init__(self, root):
         self.root=root
-        self.root.title("Wifi and password")
+        self.root.title("Wifi & password")
         self.root.geometry("500x405")
         self.root.iconbitmap("favicon.ico")
         self.root.resizable(0,0)
